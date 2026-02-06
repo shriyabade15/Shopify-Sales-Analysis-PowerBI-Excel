@@ -110,7 +110,7 @@ categories (jackets, accessories) could balance revenue streams.
     -Drill-through from summary visuals
 
 ![Shopify Analysis Dashboard](Images/dashboard 1.png)
-![Shopify Analysis Dashboard](Images/dashboard 2.png)
+![Drill Through Dashboard](Images/dashboard 2.png)
 
 
 ---
