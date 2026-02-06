@@ -109,11 +109,7 @@ categories (jackets, accessories) could balance revenue streams.
     -Product & Gateway Filtering
     -Drill-through from summary visuals
 
-**Sales Performance Dashboard**
-![Sales Dashboard](Images/dashboard1.png)
-
-**Customer Insights Dashboard**
-![Customer Dashboard](Images/dashboard2.png)
+![Sales Dashboard]]("C:\Users\HP\Documents\Shopify_Analysis\Images\dashboard1.png")
 
 
 
